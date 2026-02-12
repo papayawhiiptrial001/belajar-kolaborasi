@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-belajar sistem git real menyenangkan
+belajar git asik sekali cihuy
